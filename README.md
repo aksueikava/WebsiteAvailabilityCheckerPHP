@@ -1,2 +1,2 @@
-# WebsiteAvailabilityChecker
+# WebsiteAvailabilityCheckerPHP
 Checking website accessibility
